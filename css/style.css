@@ -1,0 +1,58 @@
+
+.logo {
+    float: left;
+}
+
+
+  .nav {
+    text-align: right;
+    padding: 5px;
+  }
+
+  .navFooter {
+    text-align: left;
+    padding: 5px;
+  }
+
+h1 {
+    text-align: center;
+    color:black;
+  }
+
+  .nav li {
+    display: inline-block;
+    font-size: 20px;
+    padding: 20px;
+  }
+  .navFooter li {
+    display: inline-block;
+    font-size: 20px;
+    padding: 20px;
+  }
+button{
+  font-size: 20px; padding: 10px;
+}
+
+  img.b {
+    vertical-align: center;
+    
+  }
+
+  span.c {
+    display: block;
+    width: 100px;
+    height: 100px;
+    padding: 5px;
+    border: 1px solid blue;    
+    background-color: yellow; 
+  }
+
+  .myDiv {
+    border: 5px outset red;
+    background-color: lightblue; 
+    text-align: center;
+  }
+  img { 
+    display: inline-block;
+  }
+  
